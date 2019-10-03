@@ -1,2 +1,2 @@
-From  k8s.gcr.io/kube-apiserver:v1.16.0
+From  gcr.io/google_containers/kube-apiserver-amd64:v1.9.6
 MAINTAINER ww <123@qq.com>
